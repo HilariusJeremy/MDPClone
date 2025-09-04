@@ -30,5 +30,21 @@
         android:layout_marginTop="20dp"
         android:layout_gravity="center"/>
 
+    <Button
+        android:id="@+id/btnScan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scan"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"/>
+
+
+    <ListView
+        android:id="@+id/listViewDevices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:dividerHeight="1dp"/>
+
 
 </LinearLayout>

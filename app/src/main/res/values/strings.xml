@@ -5,4 +5,5 @@
     <string name="chat_screen">This is a Chat Screen!</string>
     <string name="connect_screen">This is a Connect Screen!</string>
     <string name="bluetooth_switch">Bluetooth On/Off</string>
+    <string name="make_discoverable">Make Discoverable</string>
 </resources>
